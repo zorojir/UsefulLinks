@@ -18,3 +18,5 @@ Platform Installer Download Link: https://download.uipath.com/UiPathPlatformInst
 
 All the documentation sections (Studio/Robot/Orchestrator) are also updated with details of each new feature added.
 
+
+http://download.uipath.com/versions/19.10.6/UiPathOrchestrator.msi
