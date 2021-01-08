@@ -20,3 +20,7 @@ All the documentation sections (Studio/Robot/Orchestrator) are also updated with
 
 
 http://download.uipath.com/versions/19.10.6/UiPathOrchestrator.msi
+
+
+
+(From dr1 in DT.AsEnumerable() Select Newdt.LoadDataRow(New Object() {dr1(“Whs”).ToString, Cint(dr1(“FL”).toString)},false)).CopyToDataTable
